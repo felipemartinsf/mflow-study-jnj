@@ -9,6 +9,9 @@ scikit-learn = "*"
 pandas = "*"
 openpyxl = "*"
 matplotlib = "*"
+numpy = "==1.23"
+tensorflow = "==2.10"
+keras = "==2.10"
 
 [dev-packages]
 
